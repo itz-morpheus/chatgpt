@@ -1,0 +1,17 @@
+git+https://github.com/KurimuzonAkuma/pyrogram 
+tgcrypto
+aiohttp
+HorridAPI
+pymongo
+requests
+telethon
+asyncio
+Pillow
+pykeyboard
+aiofiles
+telegraph
+Mangandi
+pyrofork==2.3.45
+motor==2.5.1
+dnspython==2.3.0
+
