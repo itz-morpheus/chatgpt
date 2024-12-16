@@ -14,7 +14,3 @@ Mangandi
 pyrofork==2.3.45
 motor==2.5.1
 dnspython==2.3.0
-gunicorn
-gevent
-flask
-
