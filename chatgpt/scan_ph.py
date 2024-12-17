@@ -23,7 +23,7 @@ async def scan_ph(client, message):
             return
 
         # Notify the user about processing
-        k = await message.reply_text(f"🔄 **Checking your image, {message.from_user.mention}... Please wait.**")
+        k = await message.reply_text(f"🔄 **Checking your image, {message.from_user.mention}.... Please wait.**")
 
         # Download the replied photo
         media_path = await reply.download()
